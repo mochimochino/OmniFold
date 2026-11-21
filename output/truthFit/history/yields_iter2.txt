@@ -1,0 +1,6 @@
+# <class> <N_coh^reco> <N_incoh^reco>  (truthFit.py; subtractFD.py --yields に渡す)
+All 60665.3 17914.1
+0n0n 44547.7 3417.0
+Xn0n 5956.3 1253.0
+0nXn 6095.8 10029.0
+XnXn 4133.5 2586.8

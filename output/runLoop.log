@@ -1,0 +1,55 @@
+=== iteration 1
+--- subtractFD.py --yields /home/takuma/alice/OmniFold/macro/../output/truthFit/yields_reco.txt
+--- omnifold_unfold.py 
+--- truthFit.py 
+  All   coh    60145 ->    61367 (+0.020)   incoh    18759 ->    18899 (+0.008)
+  0n0n  coh    43954 ->    44690 (+0.017)   incoh     3306 ->     3485 (+0.054)
+  Xn0n  coh     6120 ->     6002 (-0.019)   incoh     1312 ->     1304 (-0.006)
+  0nXn  coh     6146 ->     6088 (-0.009)   incoh    10285 ->     9779 (-0.049)
+  XnXn  coh     4301 ->     4242 (-0.014)   incoh     2443 ->     2518 (+0.031)
+=== iteration 2
+--- subtractFD.py --yields /home/takuma/alice/OmniFold/macro/../output/truthFit/yields_reco.txt
+--- omnifold_unfold.py 
+--- truthFit.py 
+  All   coh    61367 ->    60665 (-0.011)   incoh    18899 ->    17914 (-0.052)
+  0n0n  coh    44690 ->    44548 (-0.003)   incoh     3485 ->     3417 (-0.020)
+  Xn0n  coh     6002 ->     5956 (-0.008)   incoh     1304 ->     1253 (-0.039)
+  0nXn  coh     6088 ->     6096 (+0.001)   incoh     9779 ->    10029 (+0.026)
+  XnXn  coh     4242 ->     4134 (-0.025)   incoh     2518 ->     2587 (+0.027)
+=== iteration 3
+--- subtractFD.py --yields /home/takuma/alice/OmniFold/macro/../output/truthFit/yields_reco.txt
+--- omnifold_unfold.py 
+--- truthFit.py 
+  All   coh    60665 ->    61550 (+0.015)   incoh    17914 ->    18093 (+0.010)
+  0n0n  coh    44548 ->    44787 (+0.005)   incoh     3417 ->     3272 (-0.043)
+  Xn0n  coh     5956 ->     6289 (+0.056)   incoh     1253 ->     1298 (+0.036)
+  0nXn  coh     6096 ->     6173 (+0.013)   incoh    10029 ->     9682 (-0.035)
+  XnXn  coh     4134 ->     4236 (+0.025)   incoh     2587 ->     2452 (-0.052)
+=== iteration 4
+--- subtractFD.py --yields /home/takuma/alice/OmniFold/macro/../output/truthFit/yields_reco.txt
+--- omnifold_unfold.py 
+--- truthFit.py 
+  All   coh    61550 ->    61490 (-0.001)   incoh    18093 ->    18274 (+0.010)
+  0n0n  coh    44787 ->    44667 (-0.003)   incoh     3272 ->     3176 (-0.029)
+  Xn0n  coh     6289 ->     6248 (-0.007)   incoh     1298 ->     1295 (-0.002)
+  0nXn  coh     6173 ->     6249 (+0.012)   incoh     9682 ->     9556 (-0.013)
+  XnXn  coh     4236 ->     4123 (-0.027)   incoh     2452 ->     2424 (-0.011)
+=== iteration 5
+--- subtractFD.py --yields /home/takuma/alice/OmniFold/macro/../output/truthFit/yields_reco.txt
+--- omnifold_unfold.py 
+--- truthFit.py 
+  All   coh    61490 ->    61648 (+0.003)   incoh    18274 ->    18177 (-0.005)
+  0n0n  coh    44667 ->    44409 (-0.006)   incoh     3176 ->     3094 (-0.026)
+  Xn0n  coh     6248 ->     6280 (+0.005)   incoh     1295 ->     1293 (-0.002)
+  0nXn  coh     6249 ->     6185 (-0.010)   incoh     9556 ->     9557 (+0.000)
+  XnXn  coh     4123 ->     4308 (+0.045)   incoh     2424 ->     2580 (+0.064)
+=== iteration 6
+--- subtractFD.py --yields /home/takuma/alice/OmniFold/macro/../output/truthFit/yields_reco.txt
+--- omnifold_unfold.py 
+--- truthFit.py 
+  All   coh    61648 ->    60944 (-0.011)   incoh    18177 ->    18785 (+0.033)
+  0n0n  coh    44409 ->    44786 (+0.009)   incoh     3094 ->     3145 (+0.016)
+  Xn0n  coh     6280 ->     6256 (-0.004)   incoh     1293 ->     1296 (+0.002)
+  0nXn  coh     6185 ->     6222 (+0.006)   incoh     9557 ->     9437 (-0.012)
+  XnXn  coh     4308 ->     4174 (-0.031)   incoh     2580 ->     2521 (-0.023)
+not converged after 6 iterations (last max change 0.033)

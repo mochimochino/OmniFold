@@ -1,0 +1,2 @@
+chi2ndf b bErr N_ND N_NDErr N_coh N_cohErr N_coh_full eps_coh N_coh_reco N_incoh N_incohErr N_incoh_full eps_incoh N_incoh_reco
+78.284 0.74076 0.04355 47.609 11.307 57691 139.28 57691 0.77787 44876 2894.1 17.084 2903.9 0.76635 2225.4

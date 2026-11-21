@@ -1,0 +1,6 @@
+# yields from: /home/takuma/alice/OmniFold/macro/../output/truthFit/yields_reco.txt
+component N_Jpsi_reco N_FD_reco N_MC_reco weight
+coh 6185.4 303.1 17455 -1.736377e-02
+incoh 9556.6 468.3 17523 -2.672336e-02
+sum_sW_sig 34133.5
+sum_weight_after 33362.1
